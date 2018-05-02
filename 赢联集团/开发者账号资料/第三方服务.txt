@@ -1,0 +1,121 @@
+极光推送
+https://www.jiguang.cn/?hmsr=%E5%93%81%E4%B8%933&hmpl=%E6%A0%87%E9%A2%98&hmcu=&hmkw=&hmci=
+
+yljt360_com
+yljt360
+
+环信
+https://www.easemob.com/
+
+yljt
+yljt360
+
+微信
+https://open.weixin.qq.com/cgi-bin/index?t=home/index&lang=zh_CN&token=d41fec347c81f48209cf135cecc1a0e578ed842b
+
+hqy@yljt360.com   商户号绑定的手机 18620409028
+yljt360
+
+健康1网微信开发平台账号：app_admin@yljt360.com
+密码：yimei360
+
+（健康1网微信支付）
+appid 微信分配的公众账号ID
+    APP_ID = wx73363179949adcd0
+    //商户号 微信分配的公众账号ID
+   MCH_ID = 1494897122
+    //  API密钥，在商户平台设置
+API_KEY = FPLNj8uo7YeEBXVbwpyiZHw0a7xDACf9
+    
+微信支付商户号1494897122
+商户平台登录帐号1494897122@1494897122
+商户平台登录密码488553
+
+
+
+双创微信开发平台账号：sc_admin@yljt360.com
+密码：Yljt360.com
+
+（双创微信支付）
+appid 微信分配的公众账号ID
+    APP_ID = wx86b29f8218d70a82
+    //商户号 微信分配的公众账号ID
+   MCH_ID = 1499408802
+    //  API密钥，在商户平台设置
+API_KEY = FPLNj8uo7YeEBXVbwpyiZHw0a7xDACf9
+操作密码：Yljt360.com
+商户平台登录帐号1499408802@1499408802
+
+
+微信商户号：1496226742
+操作密码：Yljt360.com
+
+
+支付宝
+https://open.alipay.com/platform/home.htm
+
+yljtfwpt@sina.com
+YLJt122815
+
+支付密码
+YLJt_360
+
+
+支付宝（健康1网）
+
+app_admin@yljt360.com
+
+Yljt3601net
+
+
+18620412881
+
+支付密码
+
+YLJt_3601net
+
+
+问题：赢联谁最可爱？
+
+隔壁老王
+
+支付宝 
+
+支付宝（双创）
+
+sc_admin@yljt360.com
+
+Yljt360sc
+
+
+支付密码
+YLJt_360sc
+
+问题：赢联谁最可爱？
+隔壁老王
+{打包密码:yljt360}
+
+融云
+https://developer.rongcloud.cn/app
+
+652918293@qq.com
+652918293
+
+爱内测
+https://sec.testin.cn/?channel=baidu&utm_source=baidu&utm_campaign=A01&utm_medium=cpc&utm_term=%E7%88%B1%E5%86%85%E6%B5%8B
+
+652918293@qq.com
+652918293
+
+高德
+
+
+13922172995
+
+
+
+
+
+https://tburl.in/MqG1oYQV    teambition
+账号 dwc@yljt360.com 
+密码： dwc920651004

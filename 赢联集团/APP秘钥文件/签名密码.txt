@@ -1,0 +1,15 @@
+老度laodu.jks
+keyAlias "老度"
+keyPassword "yljt360"
+storePassword "laoduapp"
+
+赢利宝YLB.jks
+keyAlias "赢利宝"
+keyPassword "yljt360"
+storePassword "yinglibaoapp"
+
+健康1网yimei.jks
+keyAlias "yljtym"
+keyPassword "yljtym"
+storePassword "yljtyimei"
+
